@@ -1,0 +1,16 @@
+{
+  "name": "gold-digger",
+  "version": "1.0.0",
+  "description": "a platform for user to invest the gold based on current gold price",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "desmond chong",
+  "license": "ISC",
+  "dependencies": {
+    "pdfkit": "^0.17.2"
+  }
+}

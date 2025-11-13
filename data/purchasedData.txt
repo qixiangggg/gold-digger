@@ -1,0 +1,22 @@
+
+2025-11-08T05:54:27.479Z, amount paid: £1444, price per Oz: £2300.81, gold sold: 0.6276 Oz
+2025-11-08T12:37:21.994Z, amount paid: £1234, price per Oz: £2299.47, gold sold: 0.5366 Oz
+2025-11-08T12:37:41.671Z, amount paid: £1234, price per Oz: £2298.7, gold sold: 0.5368 Oz
+2025-11-08T12:39:10.822Z, amount paid: £4332, price per Oz: £2302.11, gold sold: 1.8818 Oz
+2025-11-08T12:40:30.084Z, amount paid: £4312, price per Oz: £2299.57, gold sold: 1.8751 Oz
+2025-11-08T12:40:57.475Z, amount paid: £1234, price per Oz: £2303.95, gold sold: 0.5356 Oz
+2025-11-08T12:41:09.002Z, amount paid: £41233, price per Oz: £2304.19, gold sold: 17.8948 Oz
+2025-11-08T12:41:53.145Z, amount paid: £12331, price per Oz: £2300.53, gold sold: 5.3601 Oz
+2025-11-08T12:42:17.080Z, amount paid: £43321, price per Oz: £2302.55, gold sold: 18.8144 Oz
+2025-11-08T13:17:17.652Z, amount paid: £1312, price per Oz: £2300.09, gold sold: 0.5704 Oz
+2025-11-08T13:18:34.389Z, amount paid: £4312, price per Oz: £2300.97, gold sold: 1.874 Oz
+2025-11-08T13:21:29.593Z, amount paid: £14333, price per Oz: £2299.39, gold sold: 6.2334 Oz
+2025-11-08T13:25:08.689Z, amount paid: £34122, price per Oz: £2303.27, gold sold: 14.8146 Oz
+2025-11-08T13:25:54.583Z, amount paid: £41122, price per Oz: £2312.12, gold sold: 17.7854 Oz
+2025-11-08T13:26:19.959Z, amount paid: £1442, price per Oz: £2302.97, gold sold: 0.6261 Oz
+2025-11-08T13:32:42.635Z, amount paid: £31122, price per Oz: £2300.06, gold sold: 13.531 Oz
+2025-11-08T13:39:20.245Z, amount paid: £23331, price per Oz: £2300.27, gold sold: 10.1427 Oz
+2025-11-08T13:39:40.531Z, amount paid: £13332, price per Oz: £2301.96, gold sold: 5.7916 Oz
+2025-11-08T13:52:29.917Z, amount paid: £4223, price per Oz: £2299.89, gold sold: 1.8362 Oz
+2025-11-08T14:01:11.628Z, amount paid: £4112, price per Oz: £2297.92, gold sold: 1.7894 Oz
+2025-11-08T14:03:25.632Z, amount paid: £4011, price per Oz: £2299.73, gold sold: 1.7441 Oz
